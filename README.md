@@ -10,8 +10,8 @@ From kaggle [here](https://www.kaggle.com/datasets/esraamadi/saudi-arabia-weathe
 
 
 
-![‏‏لقطة الشاشة (104)](https://user-images.githubusercontent.com/93071310/227753634-f26e6471-6aa4-46e0-b130-aef0f434a482.png)
+![‏‏لقطة الشاشة (109)](https://user-images.githubusercontent.com/93071310/227947425-d2afe8ea-4966-4dfd-8b69-10fa13fd4545.png)
 
 
-![‏‏لقطة الشاشة (101)](https://user-images.githubusercontent.com/93071310/227753652-c61dac56-1f61-4df0-8156-f174a4ec18fc.png)
+![‏‏لقطة الشاشة (108)](https://user-images.githubusercontent.com/93071310/227948870-bd041178-9ee6-4185-83e8-96b62f4d0cd2.png)
 
